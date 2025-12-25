@@ -143,12 +143,6 @@ The risk score is calculated based on:
 
 ---
 
-## 🧑‍💼 Resume Description
-
-> Developed **MailTraceX**, a Python-based email forensics tool that analyzes email headers, extracts routing paths, validates SPF/DKIM/DMARC, detects suspicious URLs, integrates VirusTotal scanning, and assigns risk scores for phishing detection.
-
----
-
 ## 🚀 Future Enhancements
 
 * Web-based dashboard (Flask / FastAPI)
